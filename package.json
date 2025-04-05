@@ -29,7 +29,6 @@
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toast": "^1.1.5",
     "@stripe/stripe-js": "^3.5.0",
-    "aws-amplify": "^6.14.1",
     "bcryptjs": "^2.4.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
@@ -63,8 +62,6 @@
     "zustand": "^4.5.4"
   },
   "devDependencies": {
-    "@aws-amplify/backend": "^1.14.3",
-    "@aws-amplify/backend-cli": "^1.5.0",
     "@faker-js/faker": "^8.4.1",
     "@types/bcryptjs": "^2.4.6",
     "@types/mailgun-js": "^0.22.18",
@@ -73,10 +70,6 @@
     "@types/react-dom": "^18",
     "@types/uuid": "^9.0.8",
     "@vanilla-extract/next-plugin": "^2.4.3",
-    "aws-cdk": "^2.1003.0",
-    "aws-cdk-lib": "^2.180.0",
-    "constructs": "^10.4.2",
-    "esbuild": "^0.25.2",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "postcss": "^8",
