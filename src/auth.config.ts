@@ -62,4 +62,5 @@ export default {
     })
   ],
   trustHost: true,
+  secret: process.env.AUTH_SECRET || "cabm9oHVKKMINsff8/SDa9OpLR92zGwRDcR8hIu9JQs=",
 } satisfies NextAuthConfig
