@@ -418,7 +418,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\games\\e-commerce-main\\e-commerce-main\\src\\prisma\\generated\\client",
+      "value": "/home/aniket/ProjectsGH/e-commerce/src/prisma/generated/client",
       "fromEnvVar": null
     },
     "config": {
@@ -427,17 +427,16 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "windows",
+        "value": "rhel-openssl-3.0.x",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\games\\e-commerce-main\\e-commerce-main\\src\\prisma\\schema.prisma",
+    "sourceFilePath": "/home/aniket/ProjectsGH/e-commerce/src/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": null,
-    "schemaEnvPath": "../../../../.env"
+    "rootEnvPath": null
   },
   "relativePath": "../..",
   "clientVersion": "5.14.0",
