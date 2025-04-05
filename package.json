@@ -15,7 +15,7 @@
   "dependencies": {
     "@auth/prisma-adapter": "^2.2.0",
     "@hookform/resolvers": "^3.4.0",
-    "@prisma/client": "^5.17.0",
+    "@prisma/client": "^5.14.0",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@radix-ui/react-dialog": "^1.0.5",
@@ -82,7 +82,6 @@
     "postcss": "^8",
     "prisma": "^5.14.0",
     "tailwindcss": "^3.4.1",
-    "tsx": "^4.19.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5"
   }
 }
