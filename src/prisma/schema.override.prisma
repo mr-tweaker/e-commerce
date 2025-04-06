@@ -1,5 +1,0 @@
-datasource db {
-  provider     = "mongodb"
-  url          = "mongodb+srv://mrtweaker:%40Aniket.98@reactblog.dhelk.mongodb.net/?retryWrites=true&w=majority&appName=ReactBlog"
-  relationMode = "prisma"
-}
